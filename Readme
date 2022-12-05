@@ -1,0 +1,14 @@
+How Katalon studio is handle the file upload for Web based application.
+
+This Sample project has multiple testcases.
+
+We have used multiple way to upload the file for multiple applications.
+
+Like-
+By Using Uplaod File Keyword
+By Using Uplad File drag and drop keyword
+By Sendkeys
+By Robot class
+By Apple Script(AutoIT For Win)
+
+Thanks
