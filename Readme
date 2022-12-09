@@ -9,6 +9,7 @@ it contains multiple test case for the file upload.
 * AutoIT and Scite
 * Apple Script
 * Robotclass
+* Uploaded file
 
 # Use cases
 
@@ -18,4 +19,18 @@ it contains multiple test case for the file upload.
 * By Robot class
 * By Apple Script(AutoIT For Win)
 
-Thanks
+# How to automate
+
+* Record test script via katalon recorder.
+
+* Add the file upload keyword/test case
+
+* Save test objects and test cases.
+
+* Run the test on the browser.
+
+* Verify the test result.
+
+Repository for the Sample Project: https://github.com/katalon-studio-samples/Katalon_fileupload_sample.git
+
+Thanks.
