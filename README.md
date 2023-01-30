@@ -1,7 +1,7 @@
 
 # Introduction
 
-This project demonstrates How Katalon studio is handle the file upload for Web based application. it contains multople way to perform a file uplaod opertaion on AUT.
+This project demonstrates How Katalon studio is handle the file upload for Web based application. it contains multiple way to perform a file uplaod opertaion on AUT.
 it contains multiple test case for the file upload.
 
 # Requriments
