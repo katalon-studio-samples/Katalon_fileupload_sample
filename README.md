@@ -6,7 +6,7 @@ it contains multiple test case for the file upload.
 
 # Requriments
 
-* Katalon Studio
+* [Katalon Studio][KS]
 * AutoIT and Scite [Download][1]
 * Apple Script [Here][2]
 * Robot Class [Here][3]
@@ -39,3 +39,4 @@ Repository for the Sample Project: https://github.com/katalon-studio-samples/Kat
 [2]: <https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/conceptual/ASLR_script_objects.html#//apple_ref/doc/uid/TP40000983-CH207-BAJJCIAA> "Here"
 [3]: <https://docs.oracle.com/javase/7/docs/api/java/awt/Robot.html> "Here"
 [4]: <https://docs.katalon.com/docs/get-started/sample-projects/webui/webui-create-and-run-web-ui-test-case-using-record-and-playback-in-katalon-studio#ariaid-title1> "Here"
+[KS]: <https://docs.katalon.com/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows#download-katalon-studio> "Katalon Studio"
