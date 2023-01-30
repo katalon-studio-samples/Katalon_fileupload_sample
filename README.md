@@ -24,7 +24,7 @@ it contains multiple test case for the file upload.
 
 * Record test script via katalon recorder.
 
-* Add the file upload keyword/test case
+* Add the file upload keyword/test case as per your test environment.
 
 * Save test objects and test cases.
 
