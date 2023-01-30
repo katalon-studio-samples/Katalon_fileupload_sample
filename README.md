@@ -9,7 +9,7 @@ it contains multiple test case for the file upload.
 * Katalon Studio
 * AutoIT and Scite [Download][1]
 * Apple Script [Here][2]
-* Robotclass [Here][3]
+* Robot Class [Here][3]
 * Files to be uploaded
 
 # Use cases
