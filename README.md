@@ -7,10 +7,10 @@ it contains multiple test case for the file upload.
 # Requriments
 
 * Katalon Studio
-* AutoIT and Scite
-* Apple Script
-* Robotclass
-* Uploaded file
+* AutoIT and Scite [Download][1]
+* Apple Script [Here][2]
+* Robotclass [Here][3]
+* Files to be uploaded
 
 # Use cases
 
@@ -22,7 +22,7 @@ it contains multiple test case for the file upload.
 
 # How to automate
 
-* Record test script via katalon recorder.
+* Record test script via katalon recorder. [Here][4]
 
 * Add the file upload keyword/test case as per your test environment.
 
@@ -34,5 +34,8 @@ it contains multiple test case for the file upload.
 
 Repository for the Sample Project: https://github.com/katalon-studio-samples/Katalon_fileupload_sample.git
 
-Thanks.
 
+[1]: <https://www.autoitscript.com/site/autoit/downloads/> "Download"
+[2]: <https://developer.apple.com/library/archive/documentation/AppleScript/Conceptual/AppleScriptLangGuide/conceptual/ASLR_script_objects.html#//apple_ref/doc/uid/TP40000983-CH207-BAJJCIAA> "Here"
+[3]: <https://docs.oracle.com/javase/7/docs/api/java/awt/Robot.html> "Here"
+[4]: <https://docs.katalon.com/docs/get-started/sample-projects/webui/webui-create-and-run-web-ui-test-case-using-record-and-playback-in-katalon-studio#ariaid-title1> "Here"
