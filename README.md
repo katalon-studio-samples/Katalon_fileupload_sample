@@ -35,7 +35,8 @@ For this sample project we are covering below mentioned use cases.
 * Verify the test execution result. [Here][6]
 
 
-**Repository for the [Sample Project][SP]:**
+
+**Repository for the [Sample Project][SP].**
 
 [SP]: <https://github.com/katalon-studio-samples/Katalon_fileupload_sample.git> "Sample Project"
 
