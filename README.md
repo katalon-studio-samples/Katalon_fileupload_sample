@@ -14,11 +14,11 @@ it contains multiple test case for the file upload.
 
 # Use cases
 
-* By Using Uplaod File Keyword
-* By Using Uplad File drag and drop keyword
-* By Sendkeys
-* By Robot class
-* By Apple Script(AutoIT For Win)
+* Upload a file using Uplaod File Keyword.
+* Upload a file using Uplad File drag and drop keyword.
+* Upload a file using Sendkeys.
+* Upload a file using Robot class.
+* Upload a file using Apple Script(AutoIT For Win).
 
 # How to automate
 
