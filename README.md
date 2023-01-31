@@ -28,9 +28,9 @@ it contains multiple test case for the file upload.
 
 * Save test objects and test cases.
 
-* Run the test on the browser.
+* Run the test execution. [Here][5]
 
-* Verify the test result.
+* Verify the test execution result. [Here][6]
 
 Repository for the Sample Project: https://github.com/katalon-studio-samples/Katalon_fileupload_sample.git
 
@@ -40,3 +40,5 @@ Repository for the Sample Project: https://github.com/katalon-studio-samples/Kat
 [3]: <https://docs.oracle.com/javase/7/docs/api/java/awt/Robot.html> "Here"
 [4]: <https://docs.katalon.com/docs/get-started/sample-projects/webui/webui-create-and-run-web-ui-test-case-using-record-and-playback-in-katalon-studio#ariaid-title1> "Here"
 [KS]: <https://docs.katalon.com/docs/get-started/katalon-studio-installation/install-katalon-studio-on-macoswindows#download-katalon-studio> "Katalon Studio"
+[5]: <https://docs.katalon.com/docs/execute/execute-tests-with-katalon-studio/execute-tests-with-katalon-studio-overview#ariaid-title1> "Here"
+[6]: <https://docs.katalon.com/docs/analyze/reports/view-test-reports/view-test-reports-in-katalon-testops/view-test-results-and-execution-logs-in-katalon-testops#ariaid-title1> "Here"
