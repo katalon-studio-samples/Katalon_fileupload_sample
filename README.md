@@ -14,9 +14,11 @@ it contains multiple test case for the file upload.
 
 # Use cases
 
-* Upload a file using Uplaod File Keyword.
-* Upload a file using Uplad File drag and drop keyword.
-* Upload a file using Sendkeys.
+For this sample project we are covering below mentioned use cases.
+
+* Upload a file using "Uplaod File" Keyword.
+* Upload a file using "Upload File drag and drop" keyword.
+* Upload a file using "Sendkeys".
 * Upload a file using Robot class.
 * Upload a file using Apple Script(AutoIT For Win).
 
